@@ -129,8 +129,7 @@ class Add extends Component{
           {/*      <button type="button" className="btn btn-danger"><i class="fa fa-trash" aria-hidden="true"></i>Delete</button>*/}
 
 
-          {/*  </form>*/}
-          {/*  </div>*/}
+
         </div>
     );
   }
